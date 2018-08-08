@@ -28,15 +28,15 @@ Currently, the QA Practise at The Economist, is working on the following 4 tribe
 
 I.	SPRINT PLANNING AND GROOMING
 
-The QA is expected to make good use of the Planning and the Grooming session by being:                                                    ●	Vocal and responsible.                                                                                                             
-●	Flagging the tickets that doesn’t have the acceptance criteria and ensuring to getting it pinned down. 
-●	If a particular ticket doesn’t require QA, ensuring that is highlighted in the ticket. 
-●	Providing the estimates for the ticket in QA perspective. 
+The QA is expected to make good use of the Planning and the Grooming session by being:                                                   []●	  Vocal and responsible.                                                                                                         
+[]●	Flagging the tickets that doesn’t have the acceptance criteria and ensuring to getting it pinned down. 
+[]●	If a particular ticket doesn’t require QA, ensuring that is highlighted in the ticket. 
+[]●	Providing the estimates for the ticket in QA perspective. 
 https://docs.google.com/document/d/14ukhZyolVvB1ns3ECwq3tI9pb-seSpwir6vYnqLDgnU/edit?usp=sharing
 This link details the journey of a ticket from ‘Ready for QA’ status to ‘Released to Production’ status. This will provide a fair idea on how to estimate a ticket. 
-●	Understanding the priorities and delivery dates. 
-●	Understanding the dependencies. 
-●	Clarifying any ambiguities. 
+[]●	Understanding the priorities and delivery dates. 
+[]●	Understanding the dependencies. 
+[]●	Clarifying any ambiguities. 
 
 II.	TEST DESIGN
 
