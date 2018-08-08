@@ -28,8 +28,7 @@ Currently, the QA Practise at The Economist, is working on the following 4 tribe
 
 I.	SPRINT PLANNING AND GROOMING
 
-The QA is expected to make good use of the Planning and the Grooming session by being:
-●	Vocal and responsible. 
+The QA is expected to make good use of the Planning and the Grooming session by being:                                                    ●	Vocal and responsible.                                                                                                             
 ●	Flagging the tickets that doesn’t have the acceptance criteria and ensuring to getting it pinned down. 
 ●	If a particular ticket doesn’t require QA, ensuring that is highlighted in the ticket. 
 ●	Providing the estimates for the ticket in QA perspective. 
